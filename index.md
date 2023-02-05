@@ -5,9 +5,9 @@
     <title>Ana Sayfa</title>
   </head>
   <body>
-    <h1>Calcurators Takımı</h1>
+    <font color="orange" size="1"> Calcurators Takımı </font>
     <h2>Furkan Yıldırım</h2>
-    <h3>Ben Furkan Yıldırım. BİLSEM bilişim dersinde öyg2'yim. 13 yaşıma girek üzereyim ve 2010 yılında doğdum. En sevdiğim dersler bilgisayar ve matematik dersleri. Bilişim dersiyle ilgili daha önce kuslara gittim ve kitap okudum ama sadece yazılı ve turtlelı uygulamalar yapabiliyorum. Bunun yanında en sevdiğim aktiviteler satranç ve bilgisayarla uğraşmak, en sevdiğim oyun WoT Blitz ve en sevdiğim şarkı Astronomia.</h3>
+    <h3>Ben Furkan Yıldırım. BİLSEM bilişim dersinde öyg2'yim. 13 yaşıma girek üzereyim ve 2010 yılında doğdum. En sevdiğim dersler bilgisayar ve matematik dersleri. Bilişim dersiyle ilgili daha önce kuslara gittim ve kitap okudum ama sadece yazılı ve turtlelı uygulamalar yapabiliyorum. Bunun yanında en sevdiğim aktiviteler satranç ve bilgisayarla uğraşmak, en sevdiğim oyun WoT Blitz ve en sevdiğim şarkı Astronomia</h3>
     <h2>Yağız Efe Zincidi (kaptan yardımcısı)</h2>
     <h3>Herkese merhaba ben Yağız Efe Zincidi. Buraya kendimden bahsetmeye geldim. Ben 11 Temmuz 2010 doğumlu 13 yaşına girecek bir gencim. En sevdiğim etkinlikler futbol oynamak, müzik dinlemek ve Resim çizmek. Onun dışında en sevdiğim yemekler mantı ve tavuk döner. Mesela en sevdiğim oyunlar Minecraft, Valorant ve Roblox (çocuk demeyin hoşuma gidiyor oynamak). Ayrıca ÖYG1 hafta sonu grubundanım. </h3>
     <h2>Berra Alkan (üye)</h2>

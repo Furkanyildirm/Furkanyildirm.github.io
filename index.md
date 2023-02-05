@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <title>Ana Sayfa</title>
   </head>
   <body>
     <h1>Calcurators Takımı</h1>

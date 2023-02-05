@@ -5,7 +5,7 @@
     <title>Ana Sayfa</title>
   </head>
   <body>
-    <font color="orange" size="1"> Calcurators Takımı </font>
+    <h1>Calcurators Takımı</h1>
     <h2>Furkan Yıldırım</h2>
     <h3>Ben Furkan Yıldırım. BİLSEM bilişim dersinde öyg2'yim. 13 yaşıma girek üzereyim ve 2010 yılında doğdum. En sevdiğim dersler bilgisayar ve matematik dersleri. Bilişim dersiyle ilgili daha önce kuslara gittim ve kitap okudum ama sadece yazılı ve turtlelı uygulamalar yapabiliyorum. Bunun yanında en sevdiğim aktiviteler satranç ve bilgisayarla uğraşmak, en sevdiğim oyun WoT Blitz ve en sevdiğim şarkı Astronomia</h3>
     <h2>Yağız Efe Zincidi (kaptan yardımcısı)</h2>
